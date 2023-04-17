@@ -1,4 +1,3 @@
 # Interpretable-Gradient-Boosting
-Interpretable Gradient Boosting - Real Estate House Price Prediction
-
-Nicholas Zubrzycki CS301102 Project
+## Interpretable Gradient Boosting - Real Estate House Price Prediction
+Huggingface Deployment: https://huggingface.co/spaces/NicholasZ02/ShapTuneFinal
